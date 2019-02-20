@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry excluding="main/java/|main/java/|resoure/|main/resource/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resource"/>
+	<classpathentry kind="lib" path="C:/programmer/workspace/Markdown2PDF/lib/com.lowagie.text-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/programmer/workspace/Markdown2PDF/lib/core-renderer-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/programmer/workspace/Markdown2PDF/lib/flying-saucer-pdf-9.1.16.jar" sourcepath="C:/Users/Jarva/.m2/repository/org/xhtmlrenderer/flying-saucer-pdf/9.1.16/flying-saucer-pdf-9.1.16-sources.jar"/>
+	<classpathentry kind="lib" path="C:/programmer/workspace/Markdown2PDF/lib/Markdown2Pdf-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/programmer/workspace/Markdown2PDF/lib/markdown4j-2.2-cj-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/programmer/workspace/Markdown2PDF/lib/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="C:/programmer/workspace/Markdown2PDF/lib/tidy-1.jar"/>
+	<classpathentry kind="lib" path="C:/programmer/workspace/Markdown2PDF/lib/xhtmlrenderer-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/programmer/workspace/Markdown2PDF/lib/pdfcrowd-4.4.2.jar" sourcepath="C:/Users/Jarva/.m2/repository/com/pdfcrowd/pdfcrowd/4.4.2/pdfcrowd-4.4.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/programmer/workspace/Markdown2PDF/lib/pdfcrowd-4.4.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/programmer/workspace/Markdown2PDF/lib/pdfcrowd-4.4.2-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
